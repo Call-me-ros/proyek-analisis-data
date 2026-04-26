@@ -5,5 +5,4 @@ seaborn
 streamlit
 pyarrow
 fastparquet
-
-
+babel
